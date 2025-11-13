@@ -1,0 +1,84 @@
+{
+  "transactions": [
+    {
+      "transactionId": "txn_001",
+      "accountId": "acc_12345",
+      "amount": 150.50,
+      "currency": "USD",
+      "description": "Purchase at Store A",
+      "timestamp": "2025-11-12T10:00:00Z"
+    },
+    {
+      "transactionId": "txn_002",
+      "accountId": "acc_67890",
+      "amount": 75.25,
+      "currency": "USD",
+      "description": "Online subscription",
+      "timestamp": "2025-11-12T10:01:00Z"
+    },
+    {
+      "transactionId": "txn_003",
+      "accountId": "acc_11111",
+      "amount": 200.00,
+      "currency": "USD",
+      "description": "Utility payment",
+      "timestamp": "2025-11-12T10:02:00Z"
+    },
+    {
+      "transactionId": "txn_004",
+      "accountId": "acc_22222",
+      "amount": 50.00,
+      "currency": "USD",
+      "description": "Food delivery",
+      "timestamp": "2025-11-12T10:03:00Z"
+    },
+    {
+      "transactionId": "txn_005",
+      "accountId": "acc_33333",
+      "amount": 1000.00,
+      "currency": "USD",
+      "description": "Rent payment",
+      "timestamp": "2025-11-12T10:04:00Z"
+    },
+    {
+      "transactionId": "txn_006",
+      "accountId": "acc_44444",
+      "amount": 25.99,
+      "currency": "USD",
+      "description": "Streaming service",
+      "timestamp": "2025-11-12T10:05:00Z"
+    },
+    {
+      "transactionId": "txn_007",
+      "accountId": "acc_55555",
+      "amount": 350.00,
+      "currency": "USD",
+      "description": "Car insurance",
+      "timestamp": "2025-11-12T10:06:00Z"
+    },
+    {
+      "transactionId": "txn_008",
+      "accountId": "acc_66666",
+      "amount": 125.50,
+      "currency": "USD",
+      "description": "Grocery shopping",
+      "timestamp": "2025-11-12T10:07:00Z"
+    },
+    {
+      "transactionId": "txn_009",
+      "accountId": "acc_77777",
+      "amount": 89.99,
+      "currency": "USD",
+      "description": "Electronics purchase",
+      "timestamp": "2025-11-12T10:08:00Z"
+    },
+    {
+      "transactionId": "txn_010",
+      "accountId": "acc_88888",
+      "amount": 45.00,
+      "currency": "USD",
+      "description": "Restaurant bill",
+      "timestamp": "2025-11-12T10:09:00Z"
+    }
+  ]
+}
