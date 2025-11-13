@@ -35,8 +35,11 @@ The `sample-data.json` file contains 10 test transactions. The mock payment gate
 - You don't need to implement everything perfectly, be ready to discuss what you would add given more time
 - Feel free to ask questions and discuss trade offs in future calls.
 
+Please zip and send us your solution along with the .git folder (Exclude any build/binaries) 
+
 ## Presentation
 
 Spend no more than an hour preparing this. Don't worry about the design/presentation as much as the actual content. 
 
 Prepare a presentation on a system you’ve designed or led the design of. Walk us through how it evolved, it's impact once released, the trade offs you made, and what you’d do differently now that it’s in production. Include how you engaged with stakeholders to get buy in and challenges you faced on the way. 
+
